@@ -28,7 +28,7 @@ monday = {
     3: "English",
     4: "Computer, S",
     5: "Physics, A",
-    6: "Nepali",
+    6: "Nepali, Tej K",
     7: "Physics, U",
     8: "Nepali"
 }
@@ -47,18 +47,18 @@ wednesday = {
     2: "English",
     3: "Math, R",
     4: "Computer, S",
-    5: "Nepali",
+    5: "Nepali, Tej K",
     6: "Physics, U",
     7: "English",
-    8: "Math, R"
+    8: "Math, B"
 }
 thursday = {
     1: "Math, B",
     2: "Physics, A",
     3: "Chemistry, S",
     4: "Nepali",
-    5: "DSS Talk",
-    6: "Math, R",
+    5: "Math, R",
+    6: "DSS Talk",
     7: "Chemistry Practical",
     8: "Chemistry Practical"
 }
@@ -69,7 +69,7 @@ friday = {
     4: "Computer, S",
     5: "English",
     6: "Physics, M",
-    7: "Math, B",
+    7: "Math, R",
     8: "Nepali"
 }
 
