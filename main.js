@@ -20,6 +20,7 @@ dayShow.innerHTML = toDay(tday);
 let fullDate = `${year} ${toMonth(tmonth)} ${date}, ${toDay(tday)}`
 document.getElementById("dayRight").innerHTML = fullDate
 
+// YALA
 
 monday = {
     1: "Adv Programming",
