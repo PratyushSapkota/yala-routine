@@ -1,4 +1,4 @@
-var countDownDate = new Date("May 30, 2023").getTime();
+var countDownDate = new Date("October 4, 2023").getTime();
 
 var x = setInterval(function () {
 
