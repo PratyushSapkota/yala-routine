@@ -65,8 +65,8 @@ thursday = {
 friday = {
     1: "Math, B",
     2: "Chemistry, S",
-    3: "Chemistry, D",
-    4: "Computer, S",
+    3: "Computer, S",
+    4: "Chemistry, D",
     5: "English",
     6: "Physics, M",
     7: "Math, R",
