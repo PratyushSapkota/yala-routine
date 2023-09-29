@@ -2,7 +2,7 @@ let year = new Date().getUTCFullYear();
 let tmonth = new Date().getMonth(); // change
 let date = new Date().getDate();
 let tday = new Date().getUTCDay(); // change
-const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Spet", "Oct", "Nov", "Dec"];
+const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
 const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 
 
