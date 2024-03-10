@@ -23,54 +23,44 @@ document.getElementById("dayRight").innerHTML = fullDate
 // YALA
 
 monday = {
-    1: "Adv Programming",
-    2: "Adv Programming",
+    1: "Nepali",
+    2: "Chemistry, D",
     3: "English",
     4: "Computer, S",
     5: "Physics, A",
-    6: "Nepali, Tej K",
-    7: "Physics, U",
-    8: "Nepali"
+    6: "Physics, U"
 }
 tuesday = {
-    1: "Basic Programming",
-    2: "Basic Programming",
+    1: "English",
+    2: "Math, R",
     3: "Chemistry, RDP",
-    4: "Computer, S",
-    5: "Physics Practical",
-    6: "Physics Practical",
-    7: "English",
-    8: "Math, B"
+    4: "Math, B",
+    5: "Physics, M",
+    6: "Physics Mz"
 }
 wednesday = {
     1: "Chemitry, RDP",
     2: "English",
     3: "Math, R",
     4: "Computer, S",
-    5: "Nepali, Tej K",
-    6: "DSS Talk",
-    7: "English",
-    8: "Math, B"
+    5: "Math, B",
+    6: "Nepali, T"
 }
 thursday = {
     1: "Math, B",
     2: "Physics, A",
     3: "Chemistry, S",
     4: "Nepali",
-    5: "Math, R",
-    6: "Physics U",
-    7: "Chemistry Practical",
-    8: "Chemistry Practical"
+    5: "Physics U",
+    6: "Math, R"
 }
 friday = {
     1: "Math, B",
     2: "Chemistry, S",
     3: "Computer, S",
     4: "Chemistry, D",
-    5: "English",
-    6: "Physics, M",
-    7: "Math, R",
-    8: "Nepali"
+    5: "Physics, Mz",
+    6: "Physics, M"
 }
 
 let td = new Date().getDay();
@@ -109,9 +99,6 @@ function show(_data) {
         <div class="break">Lunch Break</div>
         <div class='each'>${_data["5"]}</div>
         <div class='each'>${_data["6"]}</div>
-        <div class="break">Break</div>
-        <div class='each'>${_data["7"]}</div>
-        <div class='each'>${_data["8"]}</div>
     </div>    
     `
 }
